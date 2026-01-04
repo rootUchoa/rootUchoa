@@ -6,45 +6,53 @@
 
 ---
 
-## 🚀 Sobre mim
-Sou estudante de Ciência da Computação com foco em **programação, lógica computacional
-e desenvolvimento contínuo de habilidades técnicas e de liderança**.
+## Perfil
+Estudante de Ciência da Computação com foco em **programação**, **resolução de problemas**
+e **Programação Orientada a Objetos**. Atuação acadêmica em projetos colaborativos,
+com ênfase em **documentação técnica**, **testes** e apoio à qualidade do software.
 
-Tenho experiência acadêmica com **Programação Orientada a Objetos**, resolução de
-problemas algorítmicos e participação em projetos em equipe, atuando especialmente
-com **documentação técnica, relatórios, testes e validação de sistemas**.
-
-Atualmente participo do **Aspire Leaders Program (ALP)**, onde desenvolvo competências
-em **liderança, comunicação, pensamento crítico e impacto social**, aplicando esses
-aprendizados também no contexto acadêmico e tecnológico.
+**Aspire Alumni — Aspire Leaders Program (ALP)**, com formação em liderança,
+comunicação, pensamento crítico e trabalho em equipe, aplicados ao contexto
+acadêmico e à formação profissional.
 
 ---
 
-## 🧠 Conhecimentos Técnicos
-- **Linguagens:** Java, C
-- **Programação:** Lógica de Programação, POO, algoritmos
-- **Desenvolvimento Web:** HTML, CSS, JavaScript
-- **Banco de Dados:** SQL (subconsultas)
-- **Ferramentas:** Git, GitHub, Eclipse, VS Code
+## Competências Técnicas
+- **Linguagens:** Java, C  
+- **Fundamentos:** algoritmos, lógica computacional  
+- **Banco de Dados:** SQL (consultas, JOINs e subconsultas)  
+- **Web (fundamentos):** HTML, CSS, JavaScript  
+- **Ferramentas:** Git, GitHub, Eclipse, VS Code  
 
 ---
 
-## 📚 Em desenvolvimento
-- Algoritmos e Estruturas de Dados
-- Programação em Java
-- Prática contínua de resolução de problemas
-- Desenvolvimento de liderança (ALP)
+## Formação Técnica Anterior
+Curso Técnico em Informática, com base sólida em:
+- Programação inicial (Portugol → Java)
+- Programação Orientada a Objetos
+- Programação Web
+- Banco de Dados
+- Redes de Computadores e Sistemas Operacionais
+- Laboratórios de Software, Web e Hardware
+
+> Essa formação contribuiu para a compreensão prática de sistemas computacionais
+e para o desenvolvimento do raciocínio lógico aplicado à programação.
 
 ---
 
-## 🏆 Prática em Programação
-- Resolução de problemas no **beecrowd**
-  - Perfil: https://judge.beecrowd.com/pt/profile/817509
+## Atividades Acadêmicas
+- Participação em projetos acadêmicos em equipe  
+- Responsável por **documentação técnica**, **relatórios** e **testes de software**  
+- Apoio à validação de funcionalidades e identificação de bugs  
 
 ---
 
-## 🤝 Trabalho em equipe & liderança
-- Experiência em projetos acadêmicos colaborativos
-- Atuação em **documentação, organização, testes e análise de bugs**
-- Comunicação clara e responsabilidade em entregas coletivas
-- Mentalidade de aprendizado contínuo e melhoria de processos
+## Desenvolvimento Atual
+- Prática contínua de programação e resolução de problemas  
+- Estudos em algoritmos e fundamentos da computação  
+- Aplicação de competências de liderança e comunicação desenvolvidas no ALP  
+
+---
+
+## Prática em Programação
+- **beecrowd:** https://judge.beecrowd.com/pt/profile/817509
